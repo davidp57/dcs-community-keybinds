@@ -1,0 +1,1 @@
+return _('SA342 Gunner')
