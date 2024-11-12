@@ -195,7 +195,7 @@ return {
 
 		-- Landing Gear Panel
 
-		{down = 3029, cockpit_device_id = 38, value_down = 1, name = _('Anti Skid On'), category = {_('Custom'), _('Landing gear panel')}},
+		{down = 3032, cockpit_device_id = 38, value_down = 1, name = _('Anti Skid On'), category = {_('Custom'), _('Landing gear panel')}},
 		{down = 3028, cockpit_device_id = 38, value_down = 0, name = _('Anti Skid Off'), category = {_('Custom'), _('Landing gear panel')}},
 		{down = 3029, up = 3028, cockpit_device_id = 38, value_down = 1, value_up = 0, name = _('Anti Skid On else Off (2-way Switch)'), category = {_('Custom'), _('Landing gear panel')}},
 		{down = 3009, up = 3009, cockpit_device_id = 39, value_down = 1, value_up = 0, name = _('Auxiliary gear handle lock button Down else Up (2-way Switch)'), category = {_('Custom'), _('Landing gear panel')}},
