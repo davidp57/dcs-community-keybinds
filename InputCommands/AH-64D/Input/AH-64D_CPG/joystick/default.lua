@@ -1,5 +1,15 @@
 return {
 	keyCommands = {
+		-- Cockpit cycles mod (dcs-cockpit-mods, device 251): does nothing without it
+		{down = 3001, up = 3101, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 1'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3002, up = 3102, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 2'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3003, up = 3103, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 3'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3004, up = 3104, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 4'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3005, up = 3105, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 5'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3006, up = 3106, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 6'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3007, up = 3107, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 7'), category = {_('Custom'), _('Cockpit cycles')}},
+		{down = 3008, up = 3108, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Cockpit cycles: slot 8'), category = {_('Custom'), _('Cockpit cycles')}},
+
 		
 		-- MFD CPG Left
 
