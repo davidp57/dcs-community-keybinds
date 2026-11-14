@@ -1,5 +1,18 @@
 return {
 	keyCommands = {
+		-- MPD page cycles, cockpit cycles mod (dcs-cockpit-mods, device 251): does nothing without it.
+		-- Never renumber: DCS keeps the pilots' bindings under these numbers.
+		{down = 3021, up = 3121, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3022, up = 3122, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold FCR'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3023, up = 3123, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold WPN'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3024, up = 3124, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold TSD'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3025, up = 3125, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold VID'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3028, up = 3128, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3029, up = 3129, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold FCR'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3030, up = 3130, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold WPN'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3031, up = 3131, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold TSD'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3032, up = 3132, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold VID'), category = {_('Custom'), _('MPD page cycles')}},
+
 		
 		-- MFD CPG Left
 
