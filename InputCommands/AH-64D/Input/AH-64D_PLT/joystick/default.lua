@@ -15,15 +15,11 @@ return {
 		{down = 3003, up = 3103, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold WPN'), category = {_('Custom'), _('MPD page cycles')}},
 		{down = 3004, up = 3104, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold TSD'), category = {_('Custom'), _('MPD page cycles')}},
 		{down = 3005, up = 3105, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold VID'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3006, up = 3106, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold COM'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3007, up = 3107, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Left MPD: next page, hold A/C'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3008, up = 3108, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3009, up = 3109, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold FCR'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3010, up = 3110, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold WPN'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3011, up = 3111, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold TSD'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3012, up = 3112, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold VID'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3013, up = 3113, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold COM'), category = {_('Custom'), _('MPD page cycles')}},
-		{down = 3014, up = 3114, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold A/C'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3006, up = 3106, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3007, up = 3107, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold FCR'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3008, up = 3108, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold WPN'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3009, up = 3109, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold TSD'), category = {_('Custom'), _('MPD page cycles')}},
+		{down = 3010, up = 3110, cockpit_device_id = 251, value_down = 1.0, value_up = 1.0, name = _('Right MPD: next page, hold VID'), category = {_('Custom'), _('MPD page cycles')}},
 
 
 		-- MFD PLT Left
